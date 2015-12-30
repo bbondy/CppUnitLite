@@ -1,10 +1,9 @@
 {
-  "name": "cppunitlite",
+  "name": "cppunitlite-2",
   "version": "1.0.0",
   "description": "C++ unit testing library",
   "main": "include_dirs.js",
   "scripts": {
-    "install": "node-gyp rebuild",
     "test": "build/Release/test"
   },
   "repository": {
